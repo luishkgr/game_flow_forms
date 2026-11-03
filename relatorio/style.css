@@ -1,0 +1,36 @@
+body {
+  font-family: Arial;
+  background: #111;
+  color: #fff;
+  padding: 30px;
+}
+
+.card {
+  background: #1f1f1f;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+h1,
+h2 {
+  color: #f20818;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #f20818;
+}
+
+th,
+td {
+  padding: 10px;
+  border: 1px solid #333;
+}
